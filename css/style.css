@@ -115,6 +115,10 @@ header nav a:hover{
     padding: 5px;
 }
 @media (max-width: 600px) {
+    body{
+        width: 100%;
+        height: 100%;
+    }
     .carrossel-filmes{
         display: flex;
         flex-direction: column;
