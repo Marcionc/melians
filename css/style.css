@@ -124,3 +124,11 @@ header nav a:hover{
     margin: 15px;
     padding: 15px;
 }
+@media (max-width: 600px){
+    body{
+        background: var(--preta);
+        font-family: 'Arial', Times, serif;
+        color:white;
+        
+     }
+}
